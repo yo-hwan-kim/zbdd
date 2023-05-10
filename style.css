@@ -23,7 +23,7 @@ span:nth-child(8) {
     color: #4181ed;
 }
 h1 {
-    font-size: 5rem;
+    font-size: 3rem;
     text-align: center;
     margin-top: 300px;
 }
@@ -37,5 +37,5 @@ input {
     text-align: center;
 }
 .search-bar {
-    width: 500px;
+    width: 30%;
 }
